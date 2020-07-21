@@ -2,6 +2,7 @@
 spring cloud demo for study  
 spring boot version 2.1.15.REALEASE  
 spring cloud version Greenwich.SR6  
+  
 spring cloud 2 -- 注册中心Eureka  
 spring cloud 3 -- 服务提供与调用  
 spring cloud 4 -- 熔断器Hystrix  
